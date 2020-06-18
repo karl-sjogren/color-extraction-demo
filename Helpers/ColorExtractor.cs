@@ -109,7 +109,7 @@ namespace color_extraction_demo.Helpers {
                 hue *= 60f;
 
                 if(hue < 0.0f)
-                    hue = hue + 360f;
+                    hue += 360f;
             }
 
             return (hue, saturation, value / 255);

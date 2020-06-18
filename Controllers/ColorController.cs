@@ -1,8 +1,6 @@
-﻿using System.Diagnostics;
-using System.IO;
+﻿using System.IO;
 using System.Linq;
 using color_extraction_demo.Helpers;
-using color_extraction_demo.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SixLabors.ImageSharp.PixelFormats;
@@ -21,7 +19,7 @@ namespace color_extraction_demo.Controllers {
 
         public IActionResult All([FromQuery]string hexColor = null) {
             var files = Directory.EnumerateFiles("wwwroot\\images");
-            
+
             var result = files.Select(file => {
                 using var stream = System.IO.File.OpenRead(file);
 
@@ -29,7 +27,7 @@ namespace color_extraction_demo.Controllers {
 
                 return colors;
             });
-            
+
             if(!string.IsNullOrWhiteSpace(hexColor)) {
                 var color = Rgba32.ParseHex(hexColor);
                 var (hue, saturation, value) = ColorExtractor.ColorToHsv(color);
