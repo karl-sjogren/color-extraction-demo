@@ -5,7 +5,6 @@ using System.Text;
 using color_extraction_demo.Models;
 using Newtonsoft.Json;
 using SixLabors.ImageSharp;
-using SixLabors.ImageSharp.ColorSpaces;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp.Processing.Processors.Quantization;
@@ -36,8 +35,8 @@ namespace color_extraction_demo.Helpers {
 
                 var imageFrame = image.Frames[0];
                 var quantizer = new WuQuantizer(new QuantizerOptions { MaxColors = 12 });
-                var frameQuantizer = quantizer.CreatePixelSpecificQuantizer<Rgba32>(SixLabors.ImageSharp.Configuration.Default);
-                
+                var frameQuantizer = quantizer.CreatePixelSpecificQuantizer<Rgba32>(Configuration.Default);
+
                 frameQuantizer.BuildPaletteAndQuantizeFrame(imageFrame, image.Bounds());
                 var quantizedColors = frameQuantizer.QuantizeFrame(imageFrame, image.Bounds());
 

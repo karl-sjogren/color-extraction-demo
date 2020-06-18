@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "discus-fish-1943755_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 111.428566,
+        "S": 0.53846157,
+        "V": 0.101960786
+      },
+      "Hex": "0E1A0C",
+      "Fraction": 0.4196046875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 106.02739,
+        "S": 0.86904764,
+        "V": 0.32941177
+      },
+      "Hex": "1C540B",
+      "Fraction": 0.13835,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 12.631579,
+        "S": 0.5671642,
+        "V": 0.2627451
+      },
+      "Hex": "43251D",
+      "Fraction": 0.0994734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 22.990654,
+        "S": 0.72789115,
+        "V": 0.5764706
+      },
+      "Hex": "935128",
+      "Fraction": 0.08099375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 27.958115,
+        "S": 0.8761468,
+        "V": 0.85490197
+      },
+      "Hex": "DA741B",
+      "Fraction": 0.0724125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 71.53846,
+        "S": 0.53608245,
+        "V": 0.38039216
+      },
+      "Hex": "57612D",
+      "Fraction": 0.0651375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 349.41177,
+        "S": 0.07727273,
+        "V": 0.8627451
+      },
+      "Hex": "DCCBCE",
+      "Fraction": 0.0627796875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 335.3846,
+        "S": 0.21311475,
+        "V": 0.7176471
+      },
+      "Hex": "B790A0",
+      "Fraction": 0.0612484375,
+      "MatchedColor": false
+    }
+  ]
+}

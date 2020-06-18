@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "buddhist-1793421_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 228.0,
+        "S": 0.22727273,
+        "V": 0.17254902
+      },
+      "Hex": "22242C",
+      "Fraction": 0.2459265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 203.07692,
+        "S": 0.13131313,
+        "V": 0.3882353
+      },
+      "Hex": "565E63",
+      "Fraction": 0.217109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 157.5,
+        "S": 0.055555556,
+        "V": 0.5647059
+      },
+      "Hex": "88908D",
+      "Fraction": 0.2090390625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 55.714283,
+        "S": 0.072916664,
+        "V": 0.7529412
+      },
+      "Hex": "C0BFB2",
+      "Fraction": 0.1266109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 60.0,
+        "S": 0.048034936,
+        "V": 0.8980392
+      },
+      "Hex": "E5E5DA",
+      "Fraction": 0.088625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 11.578947,
+        "S": 0.6195652,
+        "V": 0.36078432
+      },
+      "Hex": "5C2E23",
+      "Fraction": 0.04723125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 15.818181,
+        "S": 0.625,
+        "V": 0.6901961
+      },
+      "Hex": "B05F42",
+      "Fraction": 0.034934375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 20.192308,
+        "S": 0.4814815,
+        "V": 0.84705883
+      },
+      "Hex": "D89370",
+      "Fraction": 0.0305234375,
+      "MatchedColor": false
+    }
+  ]
+}

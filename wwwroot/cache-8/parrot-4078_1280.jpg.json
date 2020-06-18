@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "parrot-4078_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 30.0,
+        "S": 0.4,
+        "V": 0.019607844
+      },
+      "Hex": "050403",
+      "Fraction": 0.540721875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 35.25,
+        "S": 0.9411765,
+        "V": 0.6666667
+      },
+      "Hex": "AA680A",
+      "Fraction": 0.118909375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 56.842106,
+        "S": 0.45238096,
+        "V": 0.16470589
+      },
+      "Hex": "2A2917",
+      "Fraction": 0.0733125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 93.40206,
+        "S": 0.8584071,
+        "V": 0.44313726
+      },
+      "Hex": "3B7110",
+      "Fraction": 0.0663703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 167.87878,
+        "S": 0.6827586,
+        "V": 0.5686275
+      },
+      "Hex": "2E917D",
+      "Fraction": 0.053459375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 150.43478,
+        "S": 0.6388889,
+        "V": 0.42352942
+      },
+      "Hex": "276C4A",
+      "Fraction": 0.052228125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 176.8889,
+        "S": 0.6852792,
+        "V": 0.77254903
+      },
+      "Hex": "3EC5BE",
+      "Fraction": 0.0511703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 150.0,
+        "S": 0.043956045,
+        "V": 0.7137255
+      },
+      "Hex": "AEB6B2",
+      "Fraction": 0.043828125,
+      "MatchedColor": false
+    }
+  ]
+}

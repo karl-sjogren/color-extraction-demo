@@ -1,0 +1,245 @@
+﻿{
+  "Filename": "stormtrooper-2296199_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 280.0,
+        "S": 0.024590164,
+        "V": 0.95686275
+      },
+      "Hex": "F2EEF4",
+      "Fraction": 0.2995046875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 310.0,
+        "S": 0.025210084,
+        "V": 0.93333334
+      },
+      "Hex": "EEE8ED",
+      "Fraction": 0.15080625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.045454547,
+        "V": 0.8627451
+      },
+      "Hex": "DCD2D2",
+      "Fraction": 0.1094390625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 352.5,
+        "S": 0.034042552,
+        "V": 0.92156863
+      },
+      "Hex": "EBE3E4",
+      "Fraction": 0.0889859375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 24.0,
+        "S": 0.020661157,
+        "V": 0.9490196
+      },
+      "Hex": "F2EFED",
+      "Fraction": 0.075653125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 18.461538,
+        "S": 0.05652174,
+        "V": 0.9019608
+      },
+      "Hex": "E6DDD9",
+      "Fraction": 0.062984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 25.714287,
+        "S": 0.068292685,
+        "V": 0.8039216
+      },
+      "Hex": "CDC5BF",
+      "Fraction": 0.0300703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 20.0,
+        "S": 0.046875,
+        "V": 0.7529412
+      },
+      "Hex": "C0BAB7",
+      "Fraction": 0.0238109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 146.66667,
+        "S": 0.6923077,
+        "V": 0.45882353
+      },
+      "Hex": "247548",
+      "Fraction": 0.0203984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.0,
+        "S": 0.13793103,
+        "V": 0.11372549
+      },
+      "Hex": "1D1B19",
+      "Fraction": 0.019703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 147.27274,
+        "S": 0.6043956,
+        "V": 0.35686275
+      },
+      "Hex": "245B3D",
+      "Fraction": 0.01513125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.90909,
+        "S": 0.14864865,
+        "V": 0.87058824
+      },
+      "Hex": "DECEBD",
+      "Fraction": 0.0138265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.90909,
+        "S": 0.16582915,
+        "V": 0.78039217
+      },
+      "Hex": "C7B7A6",
+      "Fraction": 0.0133515625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 125.454544,
+        "S": 0.21568628,
+        "V": 0.2
+      },
+      "Hex": "283329",
+      "Fraction": 0.012909375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 33.658535,
+        "S": 0.23163842,
+        "V": 0.69411767
+      },
+      "Hex": "B19F88",
+      "Fraction": 0.0110140625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.0,
+        "S": 0.16393442,
+        "V": 0.7176471
+      },
+      "Hex": "B7A899",
+      "Fraction": 0.010771875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 33.333336,
+        "S": 0.2278481,
+        "V": 0.61960787
+      },
+      "Hex": "9E8E7A",
+      "Fraction": 0.0095328125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 26.666666,
+        "S": 0.2647059,
+        "V": 0.26666668
+      },
+      "Hex": "443A32",
+      "Fraction": 0.0070578125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 149.18918,
+        "S": 0.578125,
+        "V": 0.5019608
+      },
+      "Hex": "36805A",
+      "Fraction": 0.005859375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 33.333336,
+        "S": 0.225,
+        "V": 0.47058824
+      },
+      "Hex": "786C5D",
+      "Fraction": 0.0054640625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 63.333336,
+        "S": 0.13740458,
+        "V": 0.5137255
+      },
+      "Hex": "828371",
+      "Fraction": 0.005421875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 50.0,
+        "S": 0.14285715,
+        "V": 0.32941177
+      },
+      "Hex": "545248",
+      "Fraction": 0.00480625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 23.72093,
+        "S": 0.3909091,
+        "V": 0.43137255
+      },
+      "Hex": "6E5443",
+      "Fraction": 0.0023078125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 157.64706,
+        "S": 0.31875,
+        "V": 0.627451
+      },
+      "Hex": "6DA08D",
+      "Fraction": 0.0011890625,
+      "MatchedColor": false
+    }
+  ]
+}

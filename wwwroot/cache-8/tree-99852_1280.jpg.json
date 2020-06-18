@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "tree-99852_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 201.33333,
+        "S": 0.54,
+        "V": 0.98039216
+      },
+      "Hex": "73CAFA",
+      "Fraction": 0.1941625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 31.090908,
+        "S": 0.90909094,
+        "V": 0.4745098
+      },
+      "Hex": "79440B",
+      "Fraction": 0.16205625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 38.764046,
+        "S": 0.77729255,
+        "V": 0.8980392
+      },
+      "Hex": "E5A633",
+      "Fraction": 0.1589921875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.75,
+        "S": 0.8695652,
+        "V": 0.72156864
+      },
+      "Hex": "B86A18",
+      "Fraction": 0.1577265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 215.16129,
+        "S": 0.7410359,
+        "V": 0.9843137
+      },
+      "Hex": "418EFB",
+      "Fraction": 0.14484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 27.692308,
+        "S": 0.7647059,
+        "V": 0.2
+      },
+      "Hex": "331E0C",
+      "Fraction": 0.1207734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 24.324324,
+        "S": 0.2983871,
+        "V": 0.4862745
+      },
+      "Hex": "7C6657",
+      "Fraction": 0.0336984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 208.125,
+        "S": 0.17977528,
+        "V": 0.69803923
+      },
+      "Hex": "92A3B2",
+      "Fraction": 0.027746875,
+      "MatchedColor": false
+    }
+  ]
+}

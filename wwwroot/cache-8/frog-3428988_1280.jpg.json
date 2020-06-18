@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "frog-3428988_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 114.545456,
+        "S": 0.6111111,
+        "V": 0.07058824
+      },
+      "Hex": "081207",
+      "Fraction": 0.2575125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 80.86956,
+        "S": 0.37096775,
+        "V": 0.4862745
+      },
+      "Hex": "6C7C4E",
+      "Fraction": 0.2574515625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 84.78261,
+        "S": 0.43809524,
+        "V": 0.4117647
+      },
+      "Hex": "56693B",
+      "Fraction": 0.193490625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 106.0,
+        "S": 0.5882353,
+        "V": 0.2
+      },
+      "Hex": "1C3315",
+      "Fraction": 0.1009453125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 84.0,
+        "S": 0.4347826,
+        "V": 0.6313726
+      },
+      "Hex": "85A15B",
+      "Fraction": 0.07625625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 98.4,
+        "S": 0.625,
+        "V": 0.3137255
+      },
+      "Hex": "30501E",
+      "Fraction": 0.0746078125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 81.95122,
+        "S": 0.22162162,
+        "V": 0.7254902
+      },
+      "Hex": "AAB990",
+      "Fraction": 0.0320484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 9.504951,
+        "S": 0.7062937,
+        "V": 0.56078434
+      },
+      "Hex": "8F3A2A",
+      "Fraction": 0.0076875,
+      "MatchedColor": false
+    }
+  ]
+}

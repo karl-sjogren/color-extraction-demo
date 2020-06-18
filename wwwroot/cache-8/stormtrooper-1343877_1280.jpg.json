@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "stormtrooper-1343877_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 90.0,
+        "S": 0.2857143,
+        "V": 0.02745098
+      },
+      "Hex": "060705",
+      "Fraction": 0.32079375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 48.0,
+        "S": 0.104166664,
+        "V": 0.1882353
+      },
+      "Hex": "302F2B",
+      "Fraction": 0.136071875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 40.0,
+        "S": 0.031088082,
+        "V": 0.75686276
+      },
+      "Hex": "C1BFBB",
+      "Fraction": 0.1338,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 36.0,
+        "S": 0.030674847,
+        "V": 0.6392157
+      },
+      "Hex": "A3A19E",
+      "Fraction": 0.1072484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 60.0,
+        "S": 0.18181819,
+        "V": 0.08627451
+      },
+      "Hex": "161612",
+      "Fraction": 0.0999484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 37.5,
+        "S": 0.03508772,
+        "V": 0.89411765
+      },
+      "Hex": "E4E1DC",
+      "Fraction": 0.08428125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.0,
+        "S": 0.062015504,
+        "V": 0.5058824
+      },
+      "Hex": "817D79",
+      "Fraction": 0.0666171875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 36.0,
+        "S": 0.060240965,
+        "V": 0.3254902
+      },
+      "Hex": "53514E",
+      "Fraction": 0.0512390625,
+      "MatchedColor": false
+    }
+  ]
+}

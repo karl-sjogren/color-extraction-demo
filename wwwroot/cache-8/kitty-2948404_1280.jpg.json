@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "kitty-2948404_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 90.0,
+        "S": 0.6143791,
+        "V": 0.6
+      },
+      "Hex": "6A993B",
+      "Fraction": 0.34520625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 83.376625,
+        "S": 0.47530866,
+        "V": 0.63529414
+      },
+      "Hex": "84A255",
+      "Fraction": 0.2492828125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 90.98901,
+        "S": 0.7583333,
+        "V": 0.47058824
+      },
+      "Hex": "49781D",
+      "Fraction": 0.118071875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 67.05882,
+        "S": 0.32692307,
+        "V": 0.20392157
+      },
+      "Hex": "323423",
+      "Fraction": 0.0851265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 42.0,
+        "S": 0.19417475,
+        "V": 0.40392157
+      },
+      "Hex": "676153",
+      "Fraction": 0.082540625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 87.27273,
+        "S": 0.12429378,
+        "V": 0.69411767
+      },
+      "Hex": "A7B19B",
+      "Fraction": 0.0658375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 37.5,
+        "S": 0.03508772,
+        "V": 0.89411765
+      },
+      "Hex": "E4E1DC",
+      "Fraction": 0.0402046875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 55.2,
+        "S": 0.8293839,
+        "V": 0.827451
+      },
+      "Hex": "D3C524",
+      "Fraction": 0.0137296875,
+      "MatchedColor": false
+    }
+  ]
+}

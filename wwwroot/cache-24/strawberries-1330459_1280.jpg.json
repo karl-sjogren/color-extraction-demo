@@ -1,0 +1,245 @@
+﻿{
+  "Filename": "strawberries-1330459_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 36.0,
+        "S": 0.1923077,
+        "V": 0.20392157
+      },
+      "Hex": "34302A",
+      "Fraction": 0.0949609375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 4.2857146,
+        "S": 0.33333334,
+        "V": 0.16470589
+      },
+      "Hex": "2A1D1C",
+      "Fraction": 0.0949375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 240.0,
+        "S": 0.027027028,
+        "V": 0.2901961
+      },
+      "Hex": "48484A",
+      "Fraction": 0.0776734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 330.0,
+        "S": 0.18181819,
+        "V": 0.08627451
+      },
+      "Hex": "161214",
+      "Fraction": 0.071128125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 15.0,
+        "S": 0.27722773,
+        "V": 0.39607844
+      },
+      "Hex": "655049",
+      "Fraction": 0.06651875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 291.4286,
+        "S": 0.109375,
+        "V": 0.2509804
+      },
+      "Hex": "3F3940",
+      "Fraction": 0.0645796875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 18.75,
+        "S": 0.42666668,
+        "V": 0.29411766
+      },
+      "Hex": "4B352B",
+      "Fraction": 0.0536484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 212.57143,
+        "S": 0.1699029,
+        "V": 0.80784315
+      },
+      "Hex": "ABBBCE",
+      "Fraction": 0.0480265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 31.11111,
+        "S": 0.24324325,
+        "V": 0.43529412
+      },
+      "Hex": "6F6254",
+      "Fraction": 0.0461390625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 356.9697,
+        "S": 0.792,
+        "V": 0.49019608
+      },
+      "Hex": "7D1A1F",
+      "Fraction": 0.043584375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 213.33333,
+        "S": 0.15517241,
+        "V": 0.68235296
+      },
+      "Hex": "939FAE",
+      "Fraction": 0.0401921875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 17.87234,
+        "S": 0.47,
+        "V": 0.39215687
+      },
+      "Hex": "644335",
+      "Fraction": 0.037578125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 358.5246,
+        "S": 0.80794704,
+        "V": 0.5921569
+      },
+      "Hex": "971D20",
+      "Fraction": 0.0361875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.77,
+        "V": 0.39215687
+      },
+      "Hex": "641717",
+      "Fraction": 0.030625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 350.0,
+        "S": 0.7453416,
+        "V": 0.6313726
+      },
+      "Hex": "A1293D",
+      "Fraction": 0.0282,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 252.63159,
+        "S": 0.08444444,
+        "V": 0.88235295
+      },
+      "Hex": "D2CEE1",
+      "Fraction": 0.025665625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 355.84158,
+        "S": 0.5906433,
+        "V": 0.67058825
+      },
+      "Hex": "AB464D",
+      "Fraction": 0.0233734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 5.106383,
+        "S": 0.6911765,
+        "V": 0.26666668
+      },
+      "Hex": "441915",
+      "Fraction": 0.0227203125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 207.27274,
+        "S": 0.08906882,
+        "V": 0.96862745
+      },
+      "Hex": "E1EDF7",
+      "Fraction": 0.021734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 306.0,
+        "S": 0.073529415,
+        "V": 0.53333336
+      },
+      "Hex": "887E87",
+      "Fraction": 0.017740625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 175.0,
+        "S": 0.18604651,
+        "V": 0.5058824
+      },
+      "Hex": "69817F",
+      "Fraction": 0.0164421875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 343.91754,
+        "S": 0.47549018,
+        "V": 0.8
+      },
+      "Hex": "CC6B85",
+      "Fraction": 0.0135625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 349.56522,
+        "S": 0.31506848,
+        "V": 0.85882354
+      },
+      "Hex": "DB96A2",
+      "Fraction": 0.0125796875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 16.5,
+        "S": 0.47619048,
+        "V": 0.65882355
+      },
+      "Hex": "A86E58",
+      "Fraction": 0.0122015625,
+      "MatchedColor": false
+    }
+  ]
+}

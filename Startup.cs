@@ -36,7 +36,7 @@ namespace color_extraction_demo {
             app.UseEndpoints(endpoints => {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Color}/{action=Index}/{id?}");
             });
         }
     }

@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "lapwing-masked-australian-1438504_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 202.2857,
+        "S": 0.42682928,
+        "V": 0.9647059
+      },
+      "Hex": "8DCFF6",
+      "Fraction": 0.2706203125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 91.304344,
+        "S": 0.6,
+        "V": 0.4509804
+      },
+      "Hex": "4F732E",
+      "Fraction": 0.2088109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 196.875,
+        "S": 0.46601942,
+        "V": 0.80784315
+      },
+      "Hex": "6EB3CE",
+      "Fraction": 0.1074984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 124.61539,
+        "S": 0.2977099,
+        "V": 0.5137255
+      },
+      "Hex": "5C835F",
+      "Fraction": 0.103590625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 160.0,
+        "S": 0.02631579,
+        "V": 0.89411765
+      },
+      "Hex": "DEE4E2",
+      "Fraction": 0.093759375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 120.0,
+        "S": 0.029850746,
+        "V": 0.7882353
+      },
+      "Hex": "C3C9C3",
+      "Fraction": 0.0920515625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 52.125,
+        "S": 0.7305936,
+        "V": 0.85882354
+      },
+      "Hex": "DBC63B",
+      "Fraction": 0.09069375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 40.4908,
+        "S": 0.8578947,
+        "V": 0.74509805
+      },
+      "Hex": "BE891B",
+      "Fraction": 0.032975,
+      "MatchedColor": false
+    }
+  ]
+}

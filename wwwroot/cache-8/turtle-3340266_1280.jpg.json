@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "turtle-3340266_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 60.0,
+        "S": 0.5833333,
+        "V": 0.09411765
+      },
+      "Hex": "18180A",
+      "Fraction": 0.2619203125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 85.71429,
+        "S": 0.175,
+        "V": 0.3137255
+      },
+      "Hex": "4A5042",
+      "Fraction": 0.2042296875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 67.14286,
+        "S": 0.61764705,
+        "V": 0.26666668
+      },
+      "Hex": "3F441A",
+      "Fraction": 0.163146875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 73.521126,
+        "S": 0.60169494,
+        "V": 0.4627451
+      },
+      "Hex": "66762F",
+      "Fraction": 0.1225078125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 85.00001,
+        "S": 0.20168068,
+        "V": 0.46666667
+      },
+      "Hex": "6D775F",
+      "Fraction": 0.111375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 71.89189,
+        "S": 0.6098901,
+        "V": 0.7137255
+      },
+      "Hex": "A0B647",
+      "Fraction": 0.0786703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 171.42857,
+        "S": 0.03271028,
+        "V": 0.8392157
+      },
+      "Hex": "CFD6D5",
+      "Fraction": 0.02975,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 218.88889,
+        "S": 0.31034482,
+        "V": 0.68235296
+      },
+      "Hex": "788BAE",
+      "Fraction": 0.0284,
+      "MatchedColor": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "strawberries-3431122_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 210.0,
+        "S": 0.03809524,
+        "V": 0.4117647
+      },
+      "Hex": "656769",
+      "Fraction": 0.218928125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 57.6,
+        "S": 0.2747253,
+        "V": 0.35686275
+      },
+      "Hex": "5B5A42",
+      "Fraction": 0.198075,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 20.0,
+        "S": 0.17910448,
+        "V": 0.2627451
+      },
+      "Hex": "433B37",
+      "Fraction": 0.1360375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 2.1052632,
+        "S": 0.9047619,
+        "V": 0.7411765
+      },
+      "Hex": "BD1812",
+      "Fraction": 0.13159375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 19.148935,
+        "S": 0.8245614,
+        "V": 0.22352941
+      },
+      "Hex": "39190A",
+      "Fraction": 0.1295734375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 220.0,
+        "S": 0.12413793,
+        "V": 0.5686275
+      },
+      "Hex": "7F8591",
+      "Fraction": 0.0908703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 43.366337,
+        "S": 0.60119045,
+        "V": 0.65882355
+      },
+      "Hex": "A88C43",
+      "Fraction": 0.068909375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 204.44444,
+        "S": 0.1298077,
+        "V": 0.8156863
+      },
+      "Hex": "B5C5D0",
+      "Fraction": 0.0260125,
+      "MatchedColor": false
+    }
+  ]
+}

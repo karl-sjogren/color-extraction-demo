@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "lego-2310286_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 36.296295,
+        "S": 0.33891213,
+        "V": 0.9372549
+      },
+      "Hex": "EFCF9E",
+      "Fraction": 0.50003125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 33.658535,
+        "S": 0.3761468,
+        "V": 0.85490197
+      },
+      "Hex": "DAB688",
+      "Fraction": 0.19641875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 162.85715,
+        "S": 0.030567685,
+        "V": 0.8980392
+      },
+      "Hex": "DEE5E3",
+      "Fraction": 0.11039375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 30.32258,
+        "S": 0.46733668,
+        "V": 0.78039217
+      },
+      "Hex": "C7996A",
+      "Fraction": 0.084834375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 228.75,
+        "S": 0.44444445,
+        "V": 0.14117648
+      },
+      "Hex": "141724",
+      "Fraction": 0.0458109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.8674699,
+        "V": 0.6509804
+      },
+      "Hex": "A61616",
+      "Fraction": 0.023575,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 228.0,
+        "S": 0.06369427,
+        "V": 0.6156863
+      },
+      "Hex": "93959D",
+      "Fraction": 0.0231859375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 9.310345,
+        "S": 0.4084507,
+        "V": 0.5568628
+      },
+      "Hex": "8E5D54",
+      "Fraction": 0.01575,
+      "MatchedColor": false
+    }
+  ]
+}

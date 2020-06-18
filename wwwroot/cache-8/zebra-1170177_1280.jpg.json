@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "zebra-1170177_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 212.3077,
+        "S": 0.1092437,
+        "V": 0.93333334
+      },
+      "Hex": "D4E0EE",
+      "Fraction": 0.4827546875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 33.333336,
+        "S": 0.2647059,
+        "V": 0.93333334
+      },
+      "Hex": "EED2AF",
+      "Fraction": 0.0959296875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 32.4,
+        "S": 0.3144654,
+        "V": 0.62352943
+      },
+      "Hex": "9F886D",
+      "Fraction": 0.0837640625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 31.199999,
+        "S": 0.4032258,
+        "V": 0.4862745
+      },
+      "Hex": "7C644A",
+      "Fraction": 0.07558125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 31.935486,
+        "S": 0.280543,
+        "V": 0.8666667
+      },
+      "Hex": "DDC09F",
+      "Fraction": 0.0722421875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 28.5,
+        "S": 0.49382716,
+        "V": 0.31764707
+      },
+      "Hex": "513C29",
+      "Fraction": 0.065928125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 20.0,
+        "S": 0.5,
+        "V": 0.11764706
+      },
+      "Hex": "1E140F",
+      "Fraction": 0.0621484375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 32.542374,
+        "S": 0.3025641,
+        "V": 0.7647059
+      },
+      "Hex": "C3A888",
+      "Fraction": 0.0616515625,
+      "MatchedColor": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "natural-5190433_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 28.88889,
+        "S": 0.28421053,
+        "V": 0.37254903
+      },
+      "Hex": "5F5144",
+      "Fraction": 0.219471875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 34.5,
+        "S": 0.26845637,
+        "V": 0.58431375
+      },
+      "Hex": "95846D",
+      "Fraction": 0.1698796875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 18.947369,
+        "S": 0.4351145,
+        "V": 0.5137255
+      },
+      "Hex": "835C4A",
+      "Fraction": 0.167540625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 14.4,
+        "S": 0.37313432,
+        "V": 0.2627451
+      },
+      "Hex": "43302A",
+      "Fraction": 0.1442109375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 1.9354838,
+        "S": 0.16145833,
+        "V": 0.7529412
+      },
+      "Hex": "C0A2A1",
+      "Fraction": 0.1217140625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 20.707964,
+        "S": 0.52803737,
+        "V": 0.8392157
+      },
+      "Hex": "D68C65",
+      "Fraction": 0.081790625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 9.873418,
+        "S": 0.7488152,
+        "V": 0.827451
+      },
+      "Hex": "D34F35",
+      "Fraction": 0.0544765625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 40.0,
+        "S": 0.13452914,
+        "V": 0.8745098
+      },
+      "Hex": "DFD5C1",
+      "Fraction": 0.040915625,
+      "MatchedColor": false
+    }
+  ]
+}

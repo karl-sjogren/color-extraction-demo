@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "animal-1868436_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 89.70589,
+        "S": 0.99029124,
+        "V": 0.80784315
+      },
+      "Hex": "69CE02",
+      "Fraction": 0.4268421875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 48.0,
+        "S": 0.084033616,
+        "V": 0.93333334
+      },
+      "Hex": "EEEADA",
+      "Fraction": 0.1410765625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 29.117645,
+        "S": 0.5643154,
+        "V": 0.94509804
+      },
+      "Hex": "F1AB69",
+      "Fraction": 0.135834375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 10.588236,
+        "S": 0.77272725,
+        "V": 0.08627451
+      },
+      "Hex": "160805",
+      "Fraction": 0.0746234375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 39.090908,
+        "S": 0.8959276,
+        "V": 0.8666667
+      },
+      "Hex": "DD9817",
+      "Fraction": 0.0634375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 184.21053,
+        "S": 0.2893401,
+        "V": 0.77254903
+      },
+      "Hex": "8CC1C5",
+      "Fraction": 0.0554296875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 76.521736,
+        "S": 0.3898305,
+        "V": 0.69411767
+      },
+      "Hex": "9EB16C",
+      "Fraction": 0.05306875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 8.342246,
+        "S": 0.9396985,
+        "V": 0.78039217
+      },
+      "Hex": "C7260C",
+      "Fraction": 0.0496875,
+      "MatchedColor": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "ara-3601194_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 330.0,
+        "S": 0.41379312,
+        "V": 0.11372549
+      },
+      "Hex": "1D1117",
+      "Fraction": 0.725853125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 31.372551,
+        "S": 0.92168677,
+        "V": 0.6509804
+      },
+      "Hex": "A65D0D",
+      "Fraction": 0.0702375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 39.7861,
+        "S": 0.907767,
+        "V": 0.80784315
+      },
+      "Hex": "CE8F13",
+      "Fraction": 0.0497640625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 25.5,
+        "S": 0.82474226,
+        "V": 0.38039216
+      },
+      "Hex": "613311",
+      "Fraction": 0.0476921875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 45.0,
+        "S": 0.9322034,
+        "V": 0.9254902
+      },
+      "Hex": "ECB510",
+      "Fraction": 0.0464515625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 43.5,
+        "S": 0.32921812,
+        "V": 0.9529412
+      },
+      "Hex": "F3DDA3",
+      "Fraction": 0.0261921875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 35.29412,
+        "S": 0.43367347,
+        "V": 0.76862746
+      },
+      "Hex": "C4A16F",
+      "Fraction": 0.0197625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 196.02739,
+        "S": 0.8156425,
+        "V": 0.7019608
+      },
+      "Hex": "218CB3",
+      "Fraction": 0.014046875,
+      "MatchedColor": false
+    }
+  ]
+}

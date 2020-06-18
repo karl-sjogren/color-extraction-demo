@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "kenya-1883654_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 79.2,
+        "S": 0.54347825,
+        "V": 0.18039216
+      },
+      "Hex": "262E15",
+      "Fraction": 0.1783890625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 68.04124,
+        "S": 0.54189944,
+        "V": 0.7019608
+      },
+      "Hex": "A6B352",
+      "Fraction": 0.1515015625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 77.03703,
+        "S": 0.81,
+        "V": 0.39215687
+      },
+      "Hex": "4D6413",
+      "Fraction": 0.150671875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 68.63636,
+        "S": 0.80487806,
+        "V": 0.6431373
+      },
+      "Hex": "91A420",
+      "Fraction": 0.135690625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 80.16393,
+        "S": 0.8652482,
+        "V": 0.5529412
+      },
+      "Hex": "648D13",
+      "Fraction": 0.12446875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 155.0,
+        "S": 0.06818182,
+        "V": 0.6901961
+      },
+      "Hex": "A4B0AB",
+      "Fraction": 0.1084578125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 108.0,
+        "S": 0.18018018,
+        "V": 0.43529412
+      },
+      "Hex": "5F6F5B",
+      "Fraction": 0.103515625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 81.818184,
+        "S": 0.04761905,
+        "V": 0.90588236
+      },
+      "Hex": "E3E7DC",
+      "Fraction": 0.0473046875,
+      "MatchedColor": false
+    }
+  ]
+}

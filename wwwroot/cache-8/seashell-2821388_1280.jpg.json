@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "seashell-2821388_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 120.0,
+        "S": 0.004464286,
+        "V": 0.8784314
+      },
+      "Hex": "DFE0DF",
+      "Fraction": 0.3551984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 202.96875,
+        "S": 0.6666667,
+        "V": 0.7529412
+      },
+      "Hex": "408FC0",
+      "Fraction": 0.1650453125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 7.5,
+        "S": 0.040201005,
+        "V": 0.78039217
+      },
+      "Hex": "C7C0BF",
+      "Fraction": 0.150671875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 205.7143,
+        "S": 0.46357617,
+        "V": 0.5921569
+      },
+      "Hex": "517997",
+      "Fraction": 0.0837578125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 328.8,
+        "S": 0.36764705,
+        "V": 0.26666668
+      },
+      "Hex": "442B38",
+      "Fraction": 0.0675265625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 199.45946,
+        "S": 0.1957672,
+        "V": 0.7411765
+      },
+      "Hex": "98B1BD",
+      "Fraction": 0.0624953125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 315.7895,
+        "S": 0.12179487,
+        "V": 0.6117647
+      },
+      "Hex": "9C8997",
+      "Fraction": 0.0611375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 2.1428573,
+        "S": 0.3916084,
+        "V": 0.56078434
+      },
+      "Hex": "8F5957",
+      "Fraction": 0.0541671875,
+      "MatchedColor": false
+    }
+  ]
+}

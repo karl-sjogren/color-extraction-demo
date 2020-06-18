@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "thailand-1451382_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 204.2857,
+        "S": 0.17872341,
+        "V": 0.92156863
+      },
+      "Hex": "C1DAEB",
+      "Fraction": 0.2148078125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 195.0,
+        "S": 0.06779661,
+        "V": 0.9254902
+      },
+      "Hex": "DCE8EC",
+      "Fraction": 0.1994875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 96.0,
+        "S": 0.25,
+        "V": 0.078431375
+      },
+      "Hex": "11140F",
+      "Fraction": 0.13810625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 88.0,
+        "S": 0.27272728,
+        "V": 0.21568628
+      },
+      "Hex": "303728",
+      "Fraction": 0.123128125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 131.11111,
+        "S": 0.28723404,
+        "V": 0.36862746
+      },
+      "Hex": "435E48",
+      "Fraction": 0.10225,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 56.363636,
+        "S": 0.26612905,
+        "V": 0.4862745
+      },
+      "Hex": "7C7A5B",
+      "Fraction": 0.09681875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 141.42857,
+        "S": 0.14814815,
+        "V": 0.7411765
+      },
+      "Hex": "A1BDAB",
+      "Fraction": 0.0761296875,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 74.769226,
+        "S": 0.37142858,
+        "V": 0.6862745
+      },
+      "Hex": "9FAF6E",
+      "Fraction": 0.049271875,
+      "MatchedColor": false
+    }
+  ]
+}

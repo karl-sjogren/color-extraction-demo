@@ -1,0 +1,85 @@
+﻿{
+  "Filename": "characters-1853286_1280.jpg",
+  "Colors": [
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.7882353
+      },
+      "Hex": "C9C9C9",
+      "Fraction": 0.270984375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.16078432
+      },
+      "Hex": "292929",
+      "Fraction": 0.23765,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.6784314
+      },
+      "Hex": "ADADAD",
+      "Fraction": 0.1068328125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.3529412
+      },
+      "Hex": "5A5A5A",
+      "Fraction": 0.0904640625,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.9098039
+      },
+      "Hex": "E8E8E8",
+      "Fraction": 0.084603125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.5647059
+      },
+      "Hex": "909090",
+      "Fraction": 0.07124375,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.22352941
+      },
+      "Hex": "393939",
+      "Fraction": 0.069703125,
+      "MatchedColor": false
+    },
+    {
+      "Hsv": {
+        "H": 0.0,
+        "S": 0.0,
+        "V": 0.44705883
+      },
+      "Hex": "727272",
+      "Fraction": 0.06851875,
+      "MatchedColor": false
+    }
+  ]
+}
